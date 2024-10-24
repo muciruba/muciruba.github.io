@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://muciruba.github.io/sitemap/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/UBV/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/osB/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/LwX/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/tvH/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/Nax/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/kcL/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/SbB/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/CFl/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/pfU/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/nsB/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/QZn/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/Fet/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/fWD/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/juX/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/pfZ/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/Pui/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/MdA/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/HFg/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/Ket/sitemap_index.muciruba
+Sitemap: https://muciruba.github.io/Het/sitemap_index.muciruba
